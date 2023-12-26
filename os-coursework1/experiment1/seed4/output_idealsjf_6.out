@@ -1,0 +1,5 @@
+id	priority	createdTime	startedTime	terminatedTime	cpuTime	blockedTime	turnaroundTime	waitingTime	responseTime
+43	19	6074	6143	6423	64	112	349	173	69
+47	23	7230	7348	7563	100	3	333	230	118
+52	26	7746	7970	8550	193	101	804	510	224
+0	0	0	0	10025	9656	0	10025	369	0
